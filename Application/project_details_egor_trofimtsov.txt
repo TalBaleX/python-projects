@@ -1,0 +1,9 @@
+Ich möchte eine grafische Anwendung entwickeln, die Wetter
+in verschiedensten Städten der Welt anzeigen wird. Auf diese Idee
+bin ich ziemlich schnell gekommen. Nur als die Frage "Was ich will und was kann machen?"
+gestellt wurde. Habe ich sofort verstanden, das muss Wetter-App sein! Das Ding ist, dass jedes Mal, wenn
+ich am Computer sitze, und mich fürs Wetter interresiere, stehe auf und schleppe mein Handy vom anderen
+Ende des Zimmers. Wozu ist das eigentlich, wenn man eigene App für sich erstellen kann, die man lieber benutzt,
+als Lösungen von dritten Entwicklern, trotzdem, dass meine App halt nicht so eine große Vielfalt von Funktionen
+hat? Das ist nicht die Hauptsache, dass es eine App sein wird, in der ich immer gemütlich Wetter checken kann,
+in dem ich von keinem Sessel aufstehe. Und doch die Hauptsache ist - das ist meine App
