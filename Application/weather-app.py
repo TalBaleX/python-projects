@@ -3,7 +3,7 @@ from pyowm import OWM
 import pyowm.commons.exceptions
 import string
 
-owm = OWM('307721570e943da6dfc67af435724db4')
+owm = OWM('YOUR_OWM_TOKEN')
 mgr = owm.weather_manager()
 
 app = Tk()
